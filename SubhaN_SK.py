@@ -86,9 +86,9 @@ def logo():
 
 	print("""\x1b[0;32m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║WELCOME TO MY TOOLS  [🔥 SUBHAN KHAN 🔥].  ║
+\x1b[0;33m║WELCOME TO MY TOOL  [🔥 CHINDA 🔥].  ║
 
-\x1b[0;33m║       #TOOL AUTHOR [SUBHAN KHAN] MAFIA PATHAN. ║
+\x1b[0;33m║       #TOOL AUTHOR [CHINDA] GOODBOY CHINKS. ║
 
 \x1b[0;33m╚════════════════════════════════════════════╝
 
@@ -96,13 +96,9 @@ def logo():
 
 \x1b[0;33m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║#YOUTUBE : SUBHAN TRICKS😐.  ║
+\x1b[0;33m║#GITHUB : https://github.com/GoodboyC.              ║
 
-\x1b[0;33m║#FACEBOOK : NAME [SUBHAN KHAN  II ].       ║
-
-\x1b[0;33m║#GITHUB : https://github.com/SubhanXPathan.   ║
-
-\x1b[0;33m║#WHATSAPP : 03189339494.                   ║
+\x1b[0;33m║#WHATSAPP : +2349067338953.                         ║
 
 \x1b[0;33m╚════════════════════════════════════════════╝""")
 
